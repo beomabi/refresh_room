@@ -22,7 +22,7 @@
 |17|[카나미우 챌린지☆](https://l4disk.github.io/refresh_room/detail/17/)|완료|
 |18|[쉘·위·댄스♪ with 솔·카마르](https://l4disk.github.io/refresh_room/detail/18/)|완료|
 |19|[끝말잇기 게임♪](https://l4disk.github.io/refresh_room/detail/19/)|완료|
-|20|[수수께끼 해결? 추리소설 추천](https://14disk.github.com/beomabi/refresh_room/blob/master/detail/20/)|완료|
+|20|[수수께끼 해결? 추리소설 추천](https://14disk.github.com.io/beomabi/refresh_room/detail/20/)|완료|
 |21|[콩뿌리기 파티에 어서오세요!](https://l4disk.github.io/refresh_room/detail/21/)|완료|
 |23|[런치타임·V.V.](https://l4disk.github.io/refresh_room/detail/23/)|완료|
 |23|[GIRLS BE NEXT 초콜릿♪](https://l4disk.github.io/refresh_room/detail/24/)|완료|
