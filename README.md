@@ -22,7 +22,7 @@
 |17|[카나미우 챌린지☆](https://l4disk.github.io/refresh_room/detail/17/)|완료|
 |18|[쉘·위·댄스♪ with 솔·카마르](https://l4disk.github.io/refresh_room/detail/18/)|완료|
 |19|[끝말잇기 게임♪](https://l4disk.github.io/refresh_room/detail/19/)|완료|
-|20|[수수께끼 해결? 추리소설 추천](https://beomabi.github.io/refresh_room/detail/20/)|완료|
+|20|[수수께끼 해결? 추리소설 추천](https://14disk.github.io/refresh_room/detail/20/)|완료|
 |21|[콩뿌리기 파티에 어서오세요!](https://l4disk.github.io/refresh_room/detail/21/)|완료|
 |23|[런치타임·V.V.](https://l4disk.github.io/refresh_room/detail/23/)|완료|
 |23|[GIRLS BE NEXT 초콜릿♪](https://l4disk.github.io/refresh_room/detail/24/)|완료|
@@ -31,7 +31,7 @@
 |28|[마음에 마음을 더해서, 전하기…♪](https://l4disk.github.io/refresh_room/detail/28/)|완료|
 |33|[해피 에이프릴 풀☆](https://l4disk.github.io/refresh_room/detail/33/)|완료|
 |36|[인디고 벨의 특훈! 빨리 말하기!](https://l4disk.github.io/refresh_room/detail/36/)|완료|
-
+|27|[후루사와 요리코 댄스 교실](https://beomabi.github.io/refresh_room/detail/27/)|완료|
 ## 아이돌 번호 (큐트)
 |아이돌|이름 패널|얼굴|헤어|코스튬|
 |--|--|--|--|--|
