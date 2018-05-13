@@ -69,8 +69,8 @@
             refreshRoom.returnUrl = '../../';
             refreshRoom.dialogueSwf = '../../petit_refresh_room_balloon_swf';
             refreshRoom.data = {
-                "id": "27",
-                "refresh_room_id": "27",
+                "id": "20",
+                "refresh_room_id": "20",
                 "start_time": "2018\/01\/30 15:00:00",
                 "refresh_room_name": "謎を解決？<br>推理小説のすすめ",
                 "idol_set_id_1": "59",
@@ -102,13 +102,16 @@
                         "breast_size": "2",
                         "short_name": "都",
                         "image_url_list": {
-                            "expression_1137": "../../12008305/js/petit_cg/expression/1137.js",
-                            "hair_10137": "../../12008305/js/petit_cg/hair/10137.js",
-                            "costume_1_20137": "../../12008305/js/petit_cg/costume/1/20137.js",
+                            "expression_1078": "../../12008305/js/petit_cg/expression/1078.js",
+                            "hair_10078": "../../12008305/js/petit_cg/hair/10078.js",
+                            "head_1_30078": "../../12008305/js/petit_cg/head/1/30078.js",
+                            "costume_1_20078": "../../12008305/js/petit_cg/costume/1/20078.js",
                             "hand_1_43106": "../../12008305/js/petit_cg/hand/1/43106.js"
                         },
                         "sub_type_list": {
-                            "head": null,
+                            "head": {
+                              "head_1_30078": "../../12008305/js/petit_cg/head/1/30078.js"
+                            },
                             "hand": {
                                 "hand_1_43106": "../../12008305/js/petit_cg/hand/1/43106.js"
                             },
@@ -120,8 +123,8 @@
                             "leg": 0
                         },
                         "petit_csv_info_list": {
-                            "costume_1_20137": {
-                                "image_path": "http:\/\/sp.pf-img-a.mbga.jp\/12008305\/?guid=ON&amp;url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fitem%2Fl%2Fpetit_cg%2F20137",
+                            "costume_1_20078": {
+                                "image_path": "http:\/\/sp.pf-img-a.mbga.jp\/12008305\/?guid=ON&amp;url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fitem%2Fl%2Fpetit_cg%2F20078",
                                 "accessory_name": "探偵コーデ・都",
                                 "explanation": "探偵を気取った都の私服です。<br>探偵といえば、そう! これですよ!",
                                 "type_id": "2"
@@ -274,9 +277,7 @@
                 refreshRoom.dialogue.startSwf();
             };
             petitManager.setWidth(refreshRoom.dialogue.scaleSizeCheck(refreshRoom.is_pc));
-            refreshRoom.bg_list = {
-                "1": "../../12008305/image_sp/ui/refresh_room/bg/bg1.jpg",
-                "": "../../12008305/image_sp/ui/refresh_room/bg/bg.jpg"
+            refreshRoom.bg_list = null
             };
             var image = new Image;
             var multiply = refreshRoom.is_pc || window.devicePixelRatio >= 1.5 && !refreshRoom.old_os ? 0.5 : 1;
