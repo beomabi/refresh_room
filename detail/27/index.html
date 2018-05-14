@@ -212,7 +212,7 @@
 				"motion3": "",
 				"motion4": "",
 				"motion5": "",
-				"bg_image": "",
+				"bg_image": "1",
 				"message": "作者の趣向と時代背景…\nフッ、絵画の分析、というのも面白いわ",
 				"message_window_type": "",
 				"message_arrow_1": "1",
@@ -265,9 +265,7 @@
 				refreshRoom.dialogue.startSwf();
 			};
 			petitManager.setWidth(refreshRoom.dialogue.scaleSizeCheck(refreshRoom.is_pc));
-			refreshRoom.bg_list = {
-				"1": "../../12008305/image_sp/ui/refresh_room/bg/bg1.jpg",
-				"": "../../12008305/image_sp/ui/refresh_room/bg/bg.jpg"
+			refreshRoom.bg_list = []
 			};
 			var image = new Image;
 			var multiply = refreshRoom.is_pc || window.devicePixelRatio >= 1.5 && !refreshRoom.old_os ? 0.5 : 1;
