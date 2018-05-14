@@ -70,7 +70,7 @@
 			refreshRoom.dialogueSwf = '../../petit_refresh_room_balloon_swf';
 			refreshRoom.data = {
 				"id": "20",
-				"refresh_room_id": "40",
+				"refresh_room_id": "27",
 				"start_time": "2018\/01\/30 15:00:00",
 				"refresh_room_name": "謎を解決？<br>推理小説のすすめ",
 				"idol_set_id_1": "59",
@@ -83,8 +83,8 @@
 				"idol_accessory_set_id_4": "",
 				"idol_set_id_5": "",
 				"idol_accessory_set_id_5": "",
-				"idol_name_1": "ｹｲﾄ",
-				"idol_kana_1": "けいと",
+				"idol_name_1": "八神ﾏｷﾉ",
+				"idol_kana_1": "やがみまきの",
 				"name_plate_id_1": "90",
 				"idol_name_2": "古澤頼子",
 				"idol_kana_2": "ふるさわよりこ",
@@ -201,7 +201,7 @@
 			}
 			refreshRoom.detail = [{
 				"id": "1",
-				"refresh_room_id": "40",
+				"refresh_room_id": "27",
 				"idol_disp_1": "",
 				"idol_disp_2": "",
 				"idol_disp_3": "",
@@ -222,7 +222,7 @@
 				"message_arrow_5": ""
 			}, {
 				"id": "2",
-				"refresh_room_id": "40",
+				"refresh_room_id": "27",
 				"idol_disp_1": "",
 				"idol_disp_2": "",
 				"idol_disp_3": "",
