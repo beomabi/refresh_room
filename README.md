@@ -33,6 +33,7 @@
 |36|[인디고 벨의 특훈! 빨리 말하기!](https://l4disk.github.io/refresh_room/detail/36/)|완료|
 |27|[나이트시커즈](https://beomabi.github.io/refresh_room/detail/27/)|완료|
 |29|[어텀 북메이트](https://beomabi.github.io/refresh_room/detail/29/)|완료|
+|30|[케이트 나쁜말콘](https://beomabi.github.io/refresh_room/detail/30/)|완료|
 
 ## 아이돌 번호 (큐트)
 |아이돌|이름 패널|얼굴|헤어|코스튬|
