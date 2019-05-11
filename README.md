@@ -36,7 +36,7 @@
 |30|[케이트 나쁜말콘](https://beomabi.github.io/refresh_room/detail/30/)|완료|
 |54|[마키노 보고서, 행운 파워의 정체는!?](https://beomabi.github.io/refresh_room/detail/54/)|완료|
 |77|[리프레시룸 테스트](https://beomabi.github.io/refresh_room/detail/77/)|완료|
-|78|[마키노 투표 홍보](https://beomabi.github.io/refresh_room/detail/78/)|완료|
+|78|[마키노 투표 홍보](https://beomabi.github.io/refresh_room/detail/7/)|완료|
 
 ## 아이돌 번호 (큐트)
 |아이돌|이름 패널|얼굴|헤어|코스튬|
