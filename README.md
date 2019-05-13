@@ -38,6 +38,7 @@
 |77|[리프레시룸 테스트](https://beomabi.github.io/refresh_room/detail/77/)|완료|
 |78|[마키노 투표 홍보](https://beomabi.github.io/refresh_room/detail/78/)|완료|
 |83|[마키노 보고서, 행운 파워의 정체는!?](https://beomabi.github.io/refresh_room/detail/83/)|완료|
+|84|[예술에 있어 중요한 것은](https://beomabi.github.io/refresh_room/detail/84/)|완료|
 
 ## 아이돌 번호 (큐트)
 |아이돌|이름 패널|얼굴|헤어|코스튬|
