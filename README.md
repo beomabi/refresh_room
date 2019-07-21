@@ -39,6 +39,7 @@
 |78|[마키노 투표 홍보](https://beomabi.github.io/refresh_room/detail/78/)|완료|
 |83|[마키노 보고서, 행운 파워의 정체는!?](https://beomabi.github.io/refresh_room/detail/83/)|완료|
 |84|[아트에서 가장 중요한 것](https://beomabi.github.io/refresh_room/detail/84/)|완료|
+|85|[공명하는 Cold Matrix](https://beomabi.github.io/refresh_room/detail/85/)|완료|
 
 ## 아이돌 번호 (큐트)
 |아이돌|이름 패널|얼굴|헤어|코스튬|
